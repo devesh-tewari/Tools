@@ -1,3 +1,3 @@
-loader 124.0.9.8 9091
-scheduler 127.6.7.0 9021
-monitor 125.9.2.5 9094
+loader 10.1.37.18 aman password1 load_balancer_container 7000
+scheduler 127.6.7.0 vagupta password2 scheduler_container 9021
+monitor 125.9.2.5 mypc ubuntu@123 monitor_container 9094
