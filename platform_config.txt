@@ -1,3 +1,1 @@
-loader 10.1.37.18 aman password1 load_balancer_image 7000 load_balancer_container
-scheduler 127.6.7.0 vagupta password2 scheduler_image 9021 scheduler_container
-monitor 125.9.2.5 mypc ubuntu@123 monitor_image 9094 monitor_container
+loader 10.42.0.58 vagupta 9451388867 d1 5000 load_balancer_container
