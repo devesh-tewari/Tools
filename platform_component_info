@@ -1,0 +1,3 @@
+loader 10.1.37.18 vagupta 9451388867 d1 5000 load_balancer_container
+scheduler 10.1.37.99 aman qwertyuiop d2 7777 scheduler_container
+monitor 10.42.0.222 devesh qwertyuiop d3 8888 monitor_container
