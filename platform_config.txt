@@ -1,1 +1,1 @@
-loader 10.1.37.18 vagupta 9451388867 d1 5000 load_balancer_container scheduler_ip 10.1.37.18 deploy_manager_ip 10.1.37.18 rabbit_server_ip 10.1.37.18 replica_count 2 threshold 6.0 mongodb mongodb://10.1.37.18:27017/
+loader 192.168.1.101 vagupta 9451388867 d1 5000 load_balancer_container scheduler_ip 192.168.1.101 deploy_manager_ip 192.168.1.101 rabbit_server_ip 192.168.1.101 replica_count 2 threshold 6.0 mongodb mongodb://192.168.1.101:27017/
