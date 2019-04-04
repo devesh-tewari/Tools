@@ -1,2 +1,2 @@
-10.1.37.33 devesh qwertyuiop
-10.42.0.238 ankush Ankush
+192.168.1.101 aman qwertyuiop
+192.168.1.104 devesh qwertyuiop
