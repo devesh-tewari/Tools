@@ -1,4 +1,3 @@
-loader 10.1.37.18 vagupta 9451388867 d1 5000 load_balancer_container
-scheduler 10.1.37.99 aman qwertyuiop d2 7777 scheduler_container
-monitor 10.42.0.222 devesh qwertyuiop d3 8888 monitor_container
-rabbit 10.42.0.222 devesh qwertyuiop d3 5672 rabbit_container
+loader 192.168.43.90 aman qwertyuiop load_balancer 6666 load_balancer
+scheduler 192.168.43.229 devesh qwertyuiop scheduler 7777 scheduler
+monitor 192.168.43.90 aman qwertyuiop monitoring 8888 monitoring
