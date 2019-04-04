@@ -1,2 +1,2 @@
-192.168.1.101 aman qwertyuiop
-192.168.1.104 devesh qwertyuiop
+192.168.43.90 aman qwertyuiop
+192.168.43.229 devesh qwertyuiop
