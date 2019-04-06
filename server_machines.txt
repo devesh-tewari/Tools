@@ -1,3 +1,3 @@
 10.42.0.58 vagupta 9451388867
 10.42.0.228 aman qwertyuiop
-10.42.0.96 devesh qwertyiop
+10.42.0.96 devesh qwertyuiop
