@@ -1,4 +1,4 @@
 192.168.43.183 anurag 7890poiu
 192.168.43.42 vagupta 9451388867
-192.168.43.90 aman qwertyuiop
+10.42.0.228 aman qwertyuiop
 192.168.43.229 devesh qwertyiop
