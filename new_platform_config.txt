@@ -1,1 +1,1 @@
-daf
+loader 10.42.0.1 vagupta 9451388867 d1 5000 load_balancer_container scheduler_ip 10.42.0.1 deploy_manager_ip 10.42.0.1 rabbit_server_ip 10.42.0.1 replica_count 2 threshold 6.0 mongodb mongodb://10.42.0.1:27017/
